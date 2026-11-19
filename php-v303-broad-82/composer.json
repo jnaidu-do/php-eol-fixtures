@@ -1,0 +1,6 @@
+{
+  "name": "do/php-v303-broad-82",
+  "require": {
+    "php": "^8.2"
+  }
+}

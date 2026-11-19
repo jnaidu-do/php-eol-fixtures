@@ -1,0 +1,6 @@
+{
+  "name": "do/php-v303-exact-8337",
+  "require": {
+    "php": "8.3.37"
+  }
+}
