@@ -1,0 +1,14 @@
+{
+    "_readme": ["This file locks the dependencies of your project to a known state"],
+    "content-hash": "mem2gb8337aaaaaaaaaaaaaaaaaaaaaa",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {"php": "8.3.37"},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
