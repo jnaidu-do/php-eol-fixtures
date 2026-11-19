@@ -1,6 +1,6 @@
 {
   "name": "do/php-v303-broad-83",
   "require": {
-    "php": "^8.3"
+    "php": "~8.3.0"
   }
 }
